@@ -1,11 +1,11 @@
 {
-	"name": "Deploy",
-	"description": "Wa Bot.",
+	"name": "No name",
+	"description": "No name.",
 	"keywords": [
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/sou6av/rgnk",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
